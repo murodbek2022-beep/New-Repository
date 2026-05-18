@@ -1,2 +1,2 @@
 # New-Repository
-kino-bot
+Tungikorishkono_bot
